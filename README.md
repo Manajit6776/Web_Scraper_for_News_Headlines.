@@ -16,13 +16,6 @@ A Python script that scrapes the latest headlines from BBC News website.
 - requests library (`pip install requests`)
 - BeautifulSoup4 library (`pip install beautifulsoup4`)
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/bbc-news-scraper.git
-   cd bbc-news-scraper
-
 ## Installation required packages:
 - pip install -r requirements.txt
 
